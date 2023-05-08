@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="13" passed="13" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-08T07:34:22 CDT" name="Suite" finished-at="2023-05-08T07:35:41 CDT" duration-ms="79121">
+    <groups>
+    </groups>
+    <test started-at="2023-05-08T07:34:22 CDT" name="Test" finished-at="2023-05-08T07:35:41 CDT" duration-ms="79121">
+      <class name="testcases.AddToCartTestcase">
+        <test-method is-config="true" signature="startUp()[pri:0, instance:testcases.AddToCartTestcase@6356695f]" started-at="2023-05-08T07:34:22 CDT" name="startUp" finished-at="2023-05-08T07:34:28 CDT" duration-ms="6514" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method signature="ValidateBeforeAfterAddButton()[pri:0, instance:testcases.AddToCartTestcase@6356695f]" started-at="2023-05-08T07:34:28 CDT" name="ValidateBeforeAfterAddButton" finished-at="2023-05-08T07:34:30 CDT" duration-ms="1353" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateBeforeAfterAddButton -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.AddToCartTestcase@6356695f]" started-at="2023-05-08T07:34:30 CDT" name="tearDown" finished-at="2023-05-08T07:34:30 CDT" duration-ms="140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="startUp()[pri:0, instance:testcases.AddToCartTestcase@6356695f]" started-at="2023-05-08T07:34:30 CDT" name="startUp" finished-at="2023-05-08T07:34:34 CDT" duration-ms="4708" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method signature="ValidateProductAddedToCart()[pri:0, instance:testcases.AddToCartTestcase@6356695f]" started-at="2023-05-08T07:34:34 CDT" name="ValidateProductAddedToCart" finished-at="2023-05-08T07:34:36 CDT" duration-ms="1158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateProductAddedToCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.AddToCartTestcase@6356695f]" started-at="2023-05-08T07:34:36 CDT" name="tearDown" finished-at="2023-05-08T07:34:36 CDT" duration-ms="159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.AddToCartTestcase -->
+      <class name="testcases.LoginTestcase">
+        <test-method is-config="true" signature="startUp()[pri:0, instance:testcases.LoginTestcase@223d2c72]" started-at="2023-05-08T07:34:36 CDT" name="startUp" finished-at="2023-05-08T07:34:40 CDT" duration-ms="4681" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method signature="InvalidLogin()[pri:0, instance:testcases.LoginTestcase@223d2c72]" started-at="2023-05-08T07:34:40 CDT" name="InvalidLogin" finished-at="2023-05-08T07:34:41 CDT" duration-ms="684" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.LoginTestcase@223d2c72]" started-at="2023-05-08T07:34:41 CDT" name="tearDown" finished-at="2023-05-08T07:34:41 CDT" duration-ms="130" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="startUp()[pri:0, instance:testcases.LoginTestcase@223d2c72]" started-at="2023-05-08T07:34:41 CDT" name="startUp" finished-at="2023-05-08T07:34:46 CDT" duration-ms="5092" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method signature="Title()[pri:0, instance:testcases.LoginTestcase@223d2c72]" started-at="2023-05-08T07:34:46 CDT" name="Title" finished-at="2023-05-08T07:34:46 CDT" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Title -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.LoginTestcase@223d2c72]" started-at="2023-05-08T07:34:46 CDT" name="tearDown" finished-at="2023-05-08T07:34:47 CDT" duration-ms="150" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="startUp()[pri:0, instance:testcases.LoginTestcase@223d2c72]" started-at="2023-05-08T07:34:47 CDT" name="startUp" finished-at="2023-05-08T07:34:51 CDT" duration-ms="4442" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method signature="ValidLogin()[pri:0, instance:testcases.LoginTestcase@223d2c72]" started-at="2023-05-08T07:34:51 CDT" name="ValidLogin" finished-at="2023-05-08T07:34:51 CDT" duration-ms="495" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.LoginTestcase@223d2c72]" started-at="2023-05-08T07:34:51 CDT" name="tearDown" finished-at="2023-05-08T07:34:52 CDT" duration-ms="149" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.LoginTestcase -->
+      <class name="testcases.ProductPageTestcase">
+        <test-method is-config="true" signature="startUp()[pri:0, instance:testcases.ProductPageTestcase@8f4ea7c]" started-at="2023-05-08T07:34:52 CDT" name="startUp" finished-at="2023-05-08T07:34:57 CDT" duration-ms="5356" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method signature="validateDisplayProduct()[pri:0, instance:testcases.ProductPageTestcase@8f4ea7c]" started-at="2023-05-08T07:34:57 CDT" name="validateDisplayProduct" finished-at="2023-05-08T07:34:58 CDT" duration-ms="1015" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateDisplayProduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.ProductPageTestcase@8f4ea7c]" started-at="2023-05-08T07:34:58 CDT" name="tearDown" finished-at="2023-05-08T07:34:58 CDT" duration-ms="87" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="startUp()[pri:0, instance:testcases.ProductPageTestcase@8f4ea7c]" started-at="2023-05-08T07:34:58 CDT" name="startUp" finished-at="2023-05-08T07:35:03 CDT" duration-ms="4475" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method signature="validateSortProductAtoZ()[pri:0, instance:testcases.ProductPageTestcase@8f4ea7c]" started-at="2023-05-08T07:35:03 CDT" name="validateSortProductAtoZ" finished-at="2023-05-08T07:35:03 CDT" duration-ms="926" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSortProductAtoZ -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.ProductPageTestcase@8f4ea7c]" started-at="2023-05-08T07:35:03 CDT" name="tearDown" finished-at="2023-05-08T07:35:04 CDT" duration-ms="114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="startUp()[pri:0, instance:testcases.ProductPageTestcase@8f4ea7c]" started-at="2023-05-08T07:35:04 CDT" name="startUp" finished-at="2023-05-08T07:35:09 CDT" duration-ms="5264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method signature="validateSortProductHighToLOw()[pri:0, instance:testcases.ProductPageTestcase@8f4ea7c]" started-at="2023-05-08T07:35:09 CDT" name="validateSortProductHighToLOw" finished-at="2023-05-08T07:35:10 CDT" duration-ms="873" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSortProductHighToLOw -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.ProductPageTestcase@8f4ea7c]" started-at="2023-05-08T07:35:10 CDT" name="tearDown" finished-at="2023-05-08T07:35:10 CDT" duration-ms="114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="startUp()[pri:0, instance:testcases.ProductPageTestcase@8f4ea7c]" started-at="2023-05-08T07:35:10 CDT" name="startUp" finished-at="2023-05-08T07:35:14 CDT" duration-ms="4518" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method signature="validateSortProductLowToHigh()[pri:0, instance:testcases.ProductPageTestcase@8f4ea7c]" started-at="2023-05-08T07:35:14 CDT" name="validateSortProductLowToHigh" finished-at="2023-05-08T07:35:15 CDT" duration-ms="916" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSortProductLowToHigh -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.ProductPageTestcase@8f4ea7c]" started-at="2023-05-08T07:35:15 CDT" name="tearDown" finished-at="2023-05-08T07:35:15 CDT" duration-ms="143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="startUp()[pri:0, instance:testcases.ProductPageTestcase@8f4ea7c]" started-at="2023-05-08T07:35:15 CDT" name="startUp" finished-at="2023-05-08T07:35:21 CDT" duration-ms="5170" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method signature="validateSortProductZtoA()[pri:0, instance:testcases.ProductPageTestcase@8f4ea7c]" started-at="2023-05-08T07:35:21 CDT" name="validateSortProductZtoA" finished-at="2023-05-08T07:35:22 CDT" duration-ms="936" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSortProductZtoA -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.ProductPageTestcase@8f4ea7c]" started-at="2023-05-08T07:35:22 CDT" name="tearDown" finished-at="2023-05-08T07:35:22 CDT" duration-ms="106" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.ProductPageTestcase -->
+      <class name="testcases.CheckOutPageTestcase">
+        <test-method is-config="true" signature="startUp()[pri:0, instance:testcases.CheckOutPageTestcase@436813f3]" started-at="2023-05-08T07:35:22 CDT" name="startUp" finished-at="2023-05-08T07:35:26 CDT" duration-ms="4378" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method signature="CheckoutOverview()[pri:0, instance:testcases.CheckOutPageTestcase@436813f3]" started-at="2023-05-08T07:35:26 CDT" name="CheckoutOverview" finished-at="2023-05-08T07:35:28 CDT" duration-ms="1542" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckoutOverview -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.CheckOutPageTestcase@436813f3]" started-at="2023-05-08T07:35:28 CDT" name="tearDown" finished-at="2023-05-08T07:35:28 CDT" duration-ms="166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="startUp()[pri:0, instance:testcases.CheckOutPageTestcase@436813f3]" started-at="2023-05-08T07:35:28 CDT" name="startUp" finished-at="2023-05-08T07:35:32 CDT" duration-ms="4400" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method signature="FillOutForm()[pri:0, instance:testcases.CheckOutPageTestcase@436813f3]" started-at="2023-05-08T07:35:32 CDT" name="FillOutForm" finished-at="2023-05-08T07:35:34 CDT" duration-ms="1499" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FillOutForm -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.CheckOutPageTestcase@436813f3]" started-at="2023-05-08T07:35:34 CDT" name="tearDown" finished-at="2023-05-08T07:35:34 CDT" duration-ms="108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="startUp()[pri:0, instance:testcases.CheckOutPageTestcase@436813f3]" started-at="2023-05-08T07:35:34 CDT" name="startUp" finished-at="2023-05-08T07:35:39 CDT" duration-ms="5315" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method signature="validateConfirmationMessage()[pri:0, instance:testcases.CheckOutPageTestcase@436813f3]" started-at="2023-05-08T07:35:39 CDT" name="validateConfirmationMessage" finished-at="2023-05-08T07:35:41 CDT" duration-ms="1594" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateConfirmationMessage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.CheckOutPageTestcase@436813f3]" started-at="2023-05-08T07:35:41 CDT" name="tearDown" finished-at="2023-05-08T07:35:41 CDT" duration-ms="127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.CheckOutPageTestcase -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
